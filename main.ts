@@ -260,12 +260,12 @@ forever(function () {
         if (pulo == 1) {
             if (direita == 1) {
                 Macaco.setImage(img`
-                    . . . . . . . f f f f f . . . . 
-                    . . . . f f f e e e e e f . . . 
-                    . . . f d d e e e e d d d f . . 
-                    . . . c d b e e e d d d d d c . 
-                    . . . c d b e e d d d d d d c . 
-                    . f f . c f e e d f d d f d d c 
+                    . . . . . . 7 3 3 3 3 7 7 . . . 
+                    . . . . . 7 3 3 7 7 7 e f . . . 
+                    . . . . 7 3 7 7 7 e d d d f . . 
+                    . . . 7 3 7 7 e e d d d d d c . 
+                    . . . 3 3 7 e e d d d d d d c . 
+                    . f f . 7 f e e d f d d f d d c 
                     f e f . . f e e d f d d f d d c 
                     f e f . . f e e d d d d e e d c 
                     f e f . . f f e e d c d d d f . 
